@@ -1,0 +1,2 @@
+py-fibonacci==0.5.2
+ipykernel==6.9.2
