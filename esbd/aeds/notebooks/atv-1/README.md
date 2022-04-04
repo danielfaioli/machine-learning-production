@@ -7,7 +7,7 @@
   - [3. A função matemática que descreve a eficiência de cada função de busca.](#3-a-função-matemática-que-descreve-a-eficiência-de-cada-função-de-busca)
   - [Estrutura de dados implementadas nos Datasets](#estrutura-de-dados-implementadas-nos-datasets)
 
-```txt
+
 Título da Atividade: ESBD 1.1 - Funções de busca e análise de dimensionamento
 
 Data de Abertura: 26/03/2021    Data de Entrega: 04/04/2021
@@ -22,7 +22,7 @@ Entrega: O arquivo deve conter um documento em PDF que inclua:
 2. Um breve descritivo da análises realizadas.
 3. A função matemática que descreve a eficiência de cada função de busca.
 4. Uma estrutura de dados que pode estar implementada em cada função de busca
-```
+
 
 # Resposta à atividade ESBD 1.1
 
@@ -37,9 +37,9 @@ Entrega: O arquivo deve conter um documento em PDF que inclua:
 | 1000000          | 1908.5490        | 0.07860          | 0.0062           |
 
 ## 2. Análises realizadas
-```txt
+
 Escreveu-se uma classe de tests para realizar o *benchmarking* das funções. É notável a diferença de performance entre as funções, sendo a function_1 aquela de menor eficiência e a function_3 a de maior eficiência. A diferença de performance entre as funções se devem tanto às estruturas de dados (structure_1 é uma lista oredenada e structure_2 é um dicionário python, que é uma implementação de uma tabela hash), as formas de acesso de um item nestas e ao algoritmo de busca utilizado (caso da function_2).
-```
+
 
 ## 3. A função matemática que descreve a eficiência de cada função de busca.
 
